@@ -1,4 +1,3 @@
-import './categories.styles.scss'
 import './components/category-item/category-item.component'
 import Directory from './components/directory/directory.component'
 
